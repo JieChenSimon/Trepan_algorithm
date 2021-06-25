@@ -2,14 +2,6 @@
 The code: https://github.com/abarthakur/trepan_python
 
 
-#Env
-numpy==1.16.3
-pandas==0.24.2
-scipy==1.2.1
-keras==2.2.4
-tensorflow==1.13.1
-
-
 
 # trepan_python
 
